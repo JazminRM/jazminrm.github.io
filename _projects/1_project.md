@@ -33,7 +33,7 @@ The project is envisioned as a five steps process:
 -	Evaluate the results by comparing the imputed data with genotypes estimated for the high-coverage data.
 - Apply the best performing method/parameters to a larger dataset of ancient maize genomes and use the data to look for changes in allele frequencies associated with domestication.
 
-The project is designed to be a full year of work (30 ECTS), however it can be adjusted to a smaller project (15 ECTS).
+The project is designed to be a full year of work (30 ECTS).
 
 Candidate profile:
 We are looking for someone interested in learning how to analyse high-throughput sequencing data, genomics, domestication and ancient DNA, with a background in bioinformatics or with basic programming skills (*e.g.* bash, R and/or python).
