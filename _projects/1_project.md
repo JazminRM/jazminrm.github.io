@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: maize
 description: maize aDNA research
 img: assets/img/maize_logo.jpg
 importance: 1
